@@ -21,7 +21,7 @@ django-imagekit==4.0.2
 django-map-widgets==0.1.9
 django-material==1.2.2
 django-storages==1.6.6
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 docutils==0.14
 entrypoints==0.2.3
 geographiclib==1.49
